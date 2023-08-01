@@ -1,7 +1,7 @@
 .pri_button{
 	color:white;
 	background-color:blue;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
  
@@ -9,7 +9,7 @@
 .sec_button{
 	color:white;
 	background-color:#6c757d;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 
@@ -17,21 +17,21 @@
 .suc_button{
 	color:white;
 	background-color:#13a15e;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 }
 .dan_button{
 	color:white;
 	background-color:#c5283a;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 }
 .warn_button{
 	color:#026b81;
 	background-color:#febe03;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 
@@ -39,14 +39,14 @@
 .info_button{
 	color:#026b81;
 	background-color:#09cbef;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 }
 .lig_button{
 	color:#026b81;
 	background-color:#f9f9fb;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
  
@@ -54,24 +54,25 @@
 .dark_button{
 	color:white;
 	background-color:#202527;
-	padding:20px 35px;
+	padding:10px 15px;
 	border-radius:8px;
 	border:none;
 }
 .btn{
 	padding:20PX;
-	/* text-decoration:none; */
+	text-decoration:none;
 	
 }
 a{
-	padding:20px 35px;
+	padding:10px 15px;
 	border:none;
 	
 }
 .link_color{
 	color:blue;
 	background-color:transparent;
-	padding:20px 35px;
+	padding:10px 15px;
 	text-decoration:underline;
 	cursor:pointer;	
+	border:none;
 }
